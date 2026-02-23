@@ -5,12 +5,14 @@ A collection of real-time AI computer vision projects built with Python &amp; Op
 
 ## 📁 Repository Structure
 
+```
 AI-Computer-Vision-Projects/
 ├── project/
 │   ├── main.py
 │   ├── requirements.txt
 │   └── README.md
 └── ...
+```
 
 > Each project has its own folder with its own README and requirements file.
 
@@ -28,16 +30,13 @@ AI-Computer-Vision-Projects/
 
 ## 🚀 Getting Started
 
-1. Clone the repository
-   git clone https://github.com/yourusername/AI-Computer-Vision-Projects
-
-2. Navigate to any project folder
+1. Navigate to any project folder
    cd emotion-recognition
 
-3. Install dependencies
+2. Install dependencies
    pip install -r requirements.txt
 
-4. Run the project
+3. Run the project
    python main.py
 
 ---
