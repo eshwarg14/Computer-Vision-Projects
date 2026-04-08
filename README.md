@@ -51,4 +51,4 @@ AI-Computer-Vision-Projects/
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU 3.0 License.
