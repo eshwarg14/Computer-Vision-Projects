@@ -70,4 +70,4 @@ Press `Q` or `Esc` to quit.
 
 ## License
 
-MIT
+GNU 3.0
