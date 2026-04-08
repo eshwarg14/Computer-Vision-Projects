@@ -6,7 +6,7 @@ Real-time virtual drawing application using MediaPipe and OpenCV. Draw on screen
 
 ## Preview
 
-![Demo](Images/AC.png)
+![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/2428649a09631c88e9648724d8091ecef0b6def0/Images/AC.png)
 
 ---
 
