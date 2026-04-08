@@ -70,4 +70,14 @@ Press `Q` or `Esc` to quit.
 
 ## License
 
-GNU 3.0
+This project is licensed under the **GNU General Public License v3.0**.
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repo  
+- 🍴 Fork it  
+- 🛠️ Contribute  
