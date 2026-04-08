@@ -4,7 +4,7 @@ A real-time object detection system built using OpenCV and YOLO (You Only Look O
 
 ---
 
-## 📸 Demo / Preview
+## Preview
 
 ![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/d5bed6bafe3fa81272e4cf5631031e06cca1b92b/Images/OBR.png)
 
