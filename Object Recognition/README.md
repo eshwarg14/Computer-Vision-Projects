@@ -79,14 +79,53 @@ Press `Q` to exit.
 ├── main.py          # Main detection script
 ├── YOLO/            # Model files
 │   ├── yolov3.cfg
-│   ├── yolov3.weights
 │   ├── coco.names
-│   ├── yolov3-lite.cfg      # (optional lightweight model)
-│   └── yolov3-lite.weights  # (optional lightweight model)
+│   └── yolov3-lite.cfg      # (optional lightweight model)
 └── README.md
 ```
 
 ---
+
+## ⬇️ Download YOLO Weights
+
+Due to GitHub file size limits, the YOLO weight files are not included in this repository.
+
+### 📥 Download Links
+
+- YOLOv3 & YOLOv3-lite Weights:
+  https://drive.google.com/drive/folders/1Nr8YiQ7u02m_ya4DBDluj5z_BADrSVp4?usp=sharing
+
+---
+
+### 📁 After Download
+
+1. Download the `.weights` file  
+2. Place it inside the `YOLO/` folder:
+
+```
+YOLO/yolov3.weights
+```
+
+---
+
+### ⚠️ Important
+
+- 🧱 YOLOv3 is a large file (~200MB)  
+- 💻 May run slower on low-end systems  
+- ⚡ Use **YOLOv3 Lite** if performance is an issue  
+
+---
+
+### 💡 Tip
+
+Make sure your file paths in code match:
+
+```python
+net = cv2.dnn.readNetFromDarknet(
+    "YOLO/yolov3.cfg",
+    "YOLO/yolov3.weights"
+)
+```
 
 ## ⚠️ Important Notes
 
