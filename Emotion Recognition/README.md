@@ -6,8 +6,7 @@ A real-time emotion detection system using computer vision and AI. This applicat
 
 ## Preview
 
-![Demo](Images/emotion1.png)
-![Demo](Images/emotion2.png)
+![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/412ffdda766661210c2e13f4d2216f4a4edce682/Images/ER.png)
 
 ---
 
