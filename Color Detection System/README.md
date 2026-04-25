@@ -6,8 +6,7 @@ A real-time color detection and analysis system using Computer Vision. This appl
 
 ## Preview
 
-![Demo](Images/color1.png)
-![Demo](Images/color2.png)
+![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/84c6fd198faea564c01bd88a5c65789ec7ee41c3/Images/CD.png)
 
 ---
 
