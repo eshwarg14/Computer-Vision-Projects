@@ -6,8 +6,7 @@ A real-time drowsiness detection system that monitors eye closure using computer
 
 ## Preview
 
-![Demo](Images/drowsy1.png)
-![Demo](Images/drowsy2.png)
+![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/fcdec69941e6111062813d8da6c4643379e18794/Images/DD.png)
 
 ---
 
