@@ -6,8 +6,8 @@ A real-time pose detection system built using MediaPipe and OpenCV. This project
 
 ## Preview
 
-![Demo](Images/pose1.png)
-![Demo](Images/pose2.png)
+![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/961237be454abfa46977ee3e88aaac43bdd1c3d8/Images/P1.png)
+![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/961237be454abfa46977ee3e88aaac43bdd1c3d8/Images/P2.png)
 
 ---
 
