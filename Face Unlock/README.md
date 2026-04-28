@@ -6,8 +6,8 @@ A real-time face recognition-based authentication system built using Python, Ope
 
 ## Preview
 
-![Demo](Images/face1.png)
-![Demo](Images/face2.png)
+![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/32e632bf59834a59c506740ec33246e6524c0048/Images/FCC.png)
+![Demo](https://github.com/eshwarg14/Computer-Vision-Projects/raw/32e632bf59834a59c506740ec33246e6524c0048/Images/FU.png)
 
 ---
 
